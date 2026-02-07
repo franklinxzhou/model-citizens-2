@@ -1,0 +1,254 @@
+[
+    {
+        "question": "My landlord won't turn on the heat, is that legal?",
+        "ground_truth_answer": "According to Section 27-2403 of the NYC Administrative Code, landlords are required to maintain a minimum temperature of 68 degrees Fahrenheit between October 1 and May 31.",
+        "citation": "Heat and Hot Water (Page 1)",
+        "category": "Repairs"
+    },
+    {
+        "question": "What's the deadline for my landlord to fix this leaky faucet?",
+        "ground_truth_answer": "According to Section 27-2404 of the NYC Administrative Code, landlords have 10 days to repair or replace a broken fixture.",
+        "citation": "Repairs (Page 1)",
+        "category": "Repairs"
+    },
+    {
+        "question": "Can my landlord raise my rent without giving me notice?",
+        "ground_truth_answer": "According to Section 26-525 of the NYC Rent Control Law, landlords must provide tenants with a written notice at least 10 days prior to increasing their rent.",
+        "citation": "Rent Control (Page 1)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My landlord says I have to pay rent from October 1st to May 31st, is that legal?",
+        "ground_truth_answer": "Yes, it's legal. The contract defines the rental period as October 1st to May 31st.",
+        "citation": "No specific citation provided (Page 2)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My apartment is freezing, what's the minimum temperature my landlord has to keep it at?",
+        "ground_truth_answer": "The minimum temperature is 68 degrees Fahrenheit.",
+        "citation": "No specific citation provided (Page 2)",
+        "category": "Repairs"
+    },
+    {
+        "question": "My landlord won't turn on the heat, is that legal?",
+        "ground_truth_answer": "Utility Services (page 23) states that temperatures should be maintained at a minimum of 68 degrees.",
+        "citation": "Utility Services (Page 3)",
+        "category": "Safety"
+    },
+    {
+        "question": "Can I terminate my lease if repairs aren't done within 10 days?",
+        "ground_truth_answer": "Lease Succession Or Termination (page 10) states that tenants have the right to terminate their lease if repairs are not completed within 10 days.",
+        "citation": "Lease Succession Or Termination (Page 3)",
+        "category": "Repairs"
+    },
+    {
+        "question": "What's the deadline for paying rent?",
+        "ground_truth_answer": "Rent (page 6) states that rent is due on or before the first day of each month, with a 10-day grace period.",
+        "citation": "Rent (Page 3)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord says the heat won't be turned on until October 1st, is that legal?",
+        "ground_truth_answer": "The rent control program applies to residential buildings constructed before February, 1947.",
+        "citation": "Rent Control (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Can my landlord evict me without a good reason?",
+        "ground_truth_answer": "Rent control limits the right of the owner to evict tenants.",
+        "citation": "Rent Control (Page 4)",
+        "category": "Eviction"
+    },
+    {
+        "question": "What's the deadline for reporting issues with my apartment?",
+        "ground_truth_answer": "No specific deadline mentioned, but it's implied that there are rules and laws that apply to both unregulated and regulated apartments.",
+        "citation": "I. TYPES OF HOUSING (Page 4)",
+        "category": "Repairs"
+    },
+    {
+        "question": "My family has been living in this rent-controlled apartment since before July 1, 1971. Is that enough to keep it under regulation?",
+        "ground_truth_answer": "In order for an apartment to be under rent control, the tenant or the tenant\u2019s lawful successor must have been living there continuously since before July 1, 1971.",
+        "citation": " (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "What happens when I move out of my rent-controlled apartment?",
+        "ground_truth_answer": "When a rent controlled apartment is vacated in New York City or most other localities, it becomes rent stabilized or completely removed from regulation.",
+        "citation": " (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "How often does the maximum base rent for my rent-controlled apartment get adjusted?",
+        "ground_truth_answer": "Each rent controlled apartment has a maximum base rent that is adjusted every two years",
+        "citation": "1 (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My landlord is increasing my rent, but I think it's too high. Is that legal?",
+        "ground_truth_answer": "Rent increases are allowed if the rent being charged by the landlord exceeds the legal regulated rent.",
+        "citation": "Rent Stabilization (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I'm a tenant in a building with six or more units built between 1947 and 1973. Do I have rent stabilization?",
+        "ground_truth_answer": "Yes, you do. Apartments are generally under rent stabilization if they are in buildings of six or more units built between February 1, 1947, and December 31, 1973.",
+        "citation": "Rent Stabilization (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "When can I expect a rent increase? Are there any specific dates to look out for?",
+        "ground_truth_answer": "Local Rent Guidelines Boards in New York City, Nassau, Rockland and Westchester counties set maximum rates for rent increases once a year which are effective for one or two year leases beginning on or after October 1 each year.",
+        "citation": "Local Rent Guidelines Boards (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My apartment's rent is over $2,500, but my income is under $200,000. Can I still get a regulated lease?",
+        "ground_truth_answer": "No, the apartment will be deregulated when the legal regulated rent reaches $2,500 or more and the apartment\u2019s occupants have a total annual income in excess of $200,000 per year.",
+        "citation": " (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "What's the minimum income requirement for a tenant to keep their lease regulated?",
+        "ground_truth_answer": "The apartment\u2019s occupants must have a total annual income in excess of $200,000 per year",
+        "citation": " (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My landlord says I have to move out because my income is too low, but I've been living here for years. Is that legal?",
+        "ground_truth_answer": "Tenants in public housing are entitled to an administrative grievance process administered by the local housing authority before they may be evicted.",
+        "citation": "Public Housing (Page 6)",
+        "category": "Eviction"
+    },
+    {
+        "question": "I'm having trouble paying my rent because it's too high. Can I get help?",
+        "ground_truth_answer": "The Section 8 Housing Assistance Payments program is a rent and mortgage subsidy program that assists eligible low-income or displaced families, senior citizens and disabled persons in obtaining housing.",
+        "citation": "Section 8 Housing Assistance Payments (Page 6)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I'm having issues with my mobile home park. What are my rights?",
+        "ground_truth_answer": "Manufactured and mobile home parks' owners and tenants are governed by Real Property Law \u00a7 233 (\u201cMobile Homeowner\u2019s Bill of Rights\u201d). The DHCR enforces compliance with this law.",
+        "citation": "Real Property Law \u00a7 233 (Page 6)",
+        "category": "Repairs"
+    },
+    {
+        "question": "My landlord says the heat won't be turned on until October 1st, is that legal?",
+        "ground_truth_answer": "According to Article 7-C of the Ple Dwelling Law, enforced by the New York City Loft Board, the temperature in residential hotels must not be less than 68 degrees Fahrenheit between October 1 and May 31.",
+        "citation": "Article 7-C (Page 6)",
+        "category": "Safety"
+    },
+    {
+        "question": "My landlord is giving me only 10 days to fix a leaky faucet. Is that enough time?",
+        "ground_truth_answer": "According to the text, an oral lease for more than one year cannot be legally enforced (General Obligations Law \u00a7 5-701).",
+        "citation": "General Obligations Law \u00a7 5-701 (Page 6)",
+        "category": "Repairs"
+    },
+    {
+        "question": "My landlord is taking too long to provide me with a signed lease, what's the deadline?",
+        "ground_truth_answer": "New York City rent stabilized tenants are entitled to receive from their landlords a fully executed copy of their signed lease within 30 days of the landlord\u2019s receipt of the lease signed by the tenant.",
+        "citation": "Lease Provisions (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Why do I need to get a rent stabilization lease rider?",
+        "ground_truth_answer": "Rent stabilized tenants must also be given a rent stabilization lease rider, prepared by DHCR, which summarizes their rights under the law and provides specific information on how the rent was calculated.",
+        "citation": "Lease Provisions (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "What if my landlord tries to exempt themselves from liability for injuries caused by negligence?",
+        "ground_truth_answer": "The following lease provisions are void: Exempting landlords from liability for injuries to persons or property caused by the landlord\u2019s negligence, or that of the landlord\u2019s employees or agents.",
+        "citation": "The following lease provisions are void (Page 7)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord is requiring me to pledge my furniture as security for rent, is that legal?",
+        "ground_truth_answer": "Requiring tenants to pledge their household furniture as security for rent (Real Property Law \u00a7 231).",
+        "citation": "Real Property Law \u00a7 231 (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "If I sue my landlord and win, can I recover attorney's fees?",
+        "ground_truth_answer": "If a lease states that the landlord may recover attorney\u2019s fees and costs incurred if a lawsuit arises, a tenant automatically has a reciprocal right to recover those fees as well (Real Property Law \u00a7 234).",
+        "citation": "Real Property Law \u00a7 234 (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Can my landlord waive my right to a jury trial in case of a dispute?",
+        "ground_truth_answer": "Waiving the tenant\u2019s right to a jury trial in any lawsuit brought by either of the parties against the other for personal injury or property damage (Real Property Law\u00a7 259-c).",
+        "citation": "Real Property Law\u00a7 259-c (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My landlord is giving me 15 days' notice to renew my lease, but I'm not sure if that's enough time. Is this legal?",
+        "ground_truth_answer": "The landlord must give the tenant advance notice of the existence of this clause between 15 and 30 days before the tenant is required to notify the landlord of an intention not to renew the lease.",
+        "citation": "General Obligations Law \u00a7 5-905 (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "I'm a rent-stabilized tenant in NYC, and my landlord gave me written notice of renewal by mail. Is this enough time for me to accept?",
+        "ground_truth_answer": "For New York City rent stabilized tenants, the landlord must give written notice to the tenant of the right to renewal by mail or personal delivery not more than 150 days and not less than 90 days before the existing lease expires.",
+        "citation": "General Obligations Law (Page 8)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "If I don't accept my landlord's offer to renew, can they evict me?",
+        "ground_truth_answer": "Yes, if the tenant does not accept the renewal offer within the prescribed time, the landlord may refuse to renew the lease and seek to evict the tenant through court proceedings.",
+        "citation": " (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord is giving me a 30-day notice to renew my lease, but I'm not sure if the rent increase is legal. Is that okay?",
+        "ground_truth_answer": "The landlord has 30 days to return the fully executed lease to the tenant.",
+        "citation": "prescribed time (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "I'm a month-to-month tenant and my landlord wants me to move out by November 1. How much notice do I need to give?",
+        "ground_truth_answer": "A month-to-month tenancy outside New York City may be terminated by either party by giving at least one month\u2019s notice before the expiration of the tenancy.",
+        "citation": "A month-to-month tenancy (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "If I'm a month-to-month tenant, can my landlord terminate the lease without giving me any notice?",
+        "ground_truth_answer": "No, in localities without rent regulation, tenants who stay past the end of a lease are treated as month-to-month tenants if the landlord accepts their rent.",
+        "citation": "Month to Month T enants (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord is terminating my month-to-month tenancy without explanation, is that legal?",
+        "ground_truth_answer": "Yes, a landlord only needs to provide 30 days' notice and state that refusal to vacate will lead to eviction proceedings.",
+        "citation": "City (Page 9)",
+        "category": "Eviction"
+    },
+    {
+        "question": "Can my landlord raise the rent of our month-to-month apartment without my consent?",
+        "ground_truth_answer": "Yes, a landlord can raise the rent with the tenant's consent. If not, they can terminate the tenancy by giving appropriate notice.",
+        "citation": "Real Property Law \u00a7 232-a and \u00a7 232-b (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "How do I challenge a rent increase in my rent-regulated apartment?",
+        "ground_truth_answer": "You can challenge a rent increase up to four years after the increase went into effect.",
+        "citation": "When an apartment is subject to rent regulation, the initial rent and subsequent rent increases are set by law (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Can my landlord increase my rent for building-wide capital improvements?",
+        "ground_truth_answer": "Landlords of rent stabilized apartments may seek rent increases for certain types of building-wide major capital improvements (MCI) that benefit all tenants.",
+        "citation": "Maximum rent increases for rent stabilized apartments are set each year by the Rent Guidelines Board. (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "How much can my landlord increase my rent if I have a larger apartment?",
+        "ground_truth_answer": "Rents may be increased in individual apartments for substantial increases in dwelling space, new equipment, improvements or furnishings.",
+        "citation": "In addition, landlords of rent stabilized apartments may seek rent increases for certain types of building-wide major capital improvements (MCI) that benefit all tenants. (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "What is the maximum permanent rent increase my landlord can charge if I live in a building with more than 35 apartments?",
+        "ground_truth_answer": "In buildings that contain more than 35 apartments, the landlord can collect a permanent rent increase equal to 1/60th of the cost of the Individual Apartment Improvements (IAI).",
+        "citation": "In buildings that contain more than 35 apartments, the landlord can collect a permanent rent increase equal to 1/60th of the cost of the Individual Apartment Improvements (IAI). (Page 9)",
+        "category": "Rent Control"
+    }
+]
