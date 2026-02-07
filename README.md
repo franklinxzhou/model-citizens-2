@@ -1,5 +1,6 @@
 # Benchmarking General Use AI for Legal Advices
-By Wenjie Gong, Simeng Wu, Carol Zhou, Franklin Zhou (LegalLAWk)
+By Team BenchLAWk:
+Wenjie Gong, Simeng Wu, Carol Zhou, Franklin Zhou
 
 Step 1: \
 Build the automated pipeline to generate the test dataset. \
