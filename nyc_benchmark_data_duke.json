@@ -1,0 +1,230 @@
+[
+    {
+        "question": "I\u2019m confused\u2014does New York State have laws that govern the landlord-tenant relationship, even if I only had a handshake deal?",
+        "ground_truth_answer": "Yes. The text says the contract between a tenant and landlord can be based on a written lease or a handshake, and that in New York State there are several different laws governing this relationship, which can differ depending on the county or town you live in.",
+        "citation": "Dear New Yorker (intro letter) (Page 2)",
+        "category": "Safety"
+    },
+    {
+        "question": "Where can I contact the New York Attorney General\u2019s office for help with landlord-tenant issues?",
+        "ground_truth_answer": "The text says to visit www.ag.ny.gov or call the hotline at 800-771-7755.",
+        "citation": "Dear New Yorker (intro letter) (Page 2)",
+        "category": "Safety"
+    },
+    {
+        "question": "How do I know if my New York apartment is rent regulated or unregulated?",
+        "ground_truth_answer": "To find out whether an apartment is regulated, contact the New York State Division of Housing and Community Renewal.",
+        "citation": "I. TYPES OF HOUSING (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Is there an easy way to tell if my building could be under rent control?",
+        "ground_truth_answer": "The rent control program applies to residential buildings constructed before February 1947 in municipalities that have not declared an end to the postwar rental housing emergency.",
+        "citation": "Rent Regulated Housing \u2014 Rent Control (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Where in New York is rent control still in effect?",
+        "ground_truth_answer": "Rent control is still in effect in New York City and parts of Albany, Erie, Nassau, Rensselaer, Schenectady, and Westchester counties.",
+        "citation": "Rent Regulated Housing \u2014 Rent Control (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "How long do I need to have lived in my apartment for it to qualify as rent controlled?",
+        "ground_truth_answer": "For an apartment to be under rent control, the tenant or the tenant\u2019s lawful successor must have been living there continuously since before July 1, 1971.",
+        "citation": "1 (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "If I move out of a rent controlled apartment in New York City, does it stay rent controlled for the next tenant?",
+        "ground_truth_answer": "When a rent controlled apartment is vacated in New York City or most other localities, it becomes rent stabilized or completely removed from regulation.",
+        "citation": "1 (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "How often is the maximum base rent adjusted for a rent controlled apartment in New York City?",
+        "ground_truth_answer": "In New York City, each rent controlled apartment has a maximum base rent that is adjusted every two years.",
+        "citation": "1 (Page 4)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My building was built in 1960 and has 10 units in NYC\u2014does that usually mean my apartment is rent stabilized?",
+        "ground_truth_answer": "In New York City, apartments are generally under rent stabilization if they are in buildings of six or more units built between February 1, 1947 and December 31, 1973.",
+        "citation": "Rent Stabilization (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I moved into a pre-1947 NYC building after 1971\u2014can the apartment be generally rent stabilized?",
+        "ground_truth_answer": "In New York City, apartments are generally under rent stabilization if they are in buildings built before February 1, 1947 with tenants who moved in after June 30, 1971.",
+        "citation": "Rent Stabilization (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "When do NYC rent guideline boards\u2019 annual rent increase rates take effect for renewal leases?",
+        "ground_truth_answer": "Local Rent Guidelines Boards set maximum rates for rent increases once a year, effective for one- or two-year leases beginning on or after October 1 each year.",
+        "citation": "Rent Stabilization (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My rent-stabilized apartment just became vacant\u2014can it become deregulated just because it\u2019s empty?",
+        "ground_truth_answer": "Yes. The text states that an apartment becomes deregulated when it becomes vacant.",
+        "citation": "Text Chunk (page 2) (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Can my occupied apartment be deregulated because of my rent level and income?",
+        "ground_truth_answer": "Yes. The text says occupied apartments may be deregulated when the legal regulated rent reaches $2,500 or more and the occupants\u2019 total annual income is in excess of $200,000 per year in each of the two years preceding deregulation.",
+        "citation": "Text Chunk (page 2) (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "If my unit gets deregulated, can the landlord offer me a market-rate rent?",
+        "ground_truth_answer": "Yes. The text states that a tenant in a unit that becomes deregulated may be offered a rent at the prevailing market rate.",
+        "citation": "Text Chunk (page 2) (Page 5)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I live in a Mitchell-Lama development\u2014what eligibility requirements do tenants have to meet?",
+        "ground_truth_answer": "In Mitchell-Lama developments, tenants must meet eligibility requirements including income, family size, and apartment size. Additionally, each development sets its own restrictions.",
+        "citation": "Mitchell-Lama developments (Eligibility requirements) (Page 6)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I\u2019m in public housing\u2014can the housing authority evict me without giving me a chance to grieve it first?",
+        "ground_truth_answer": "Tenants in public housing are entitled to an administrative grievance process administered by the local housing authority before they may be evicted.",
+        "citation": "Public Housing (Administrative grievance process) (Page 6)",
+        "category": "Eviction"
+    },
+    {
+        "question": "How does Section 8 decide how much of my rent gets subsidized?",
+        "ground_truth_answer": "Under the Section 8 Housing Assistance Payments program, families receive a rental subsidy equal to the difference between their share of the rent (based on their income) and the approved rent for the unit. Eligible families and individuals are subject to statutory income limits.",
+        "citation": "Section 8 Housing Assistance Payments program (Page 6)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My landlord says we can change the lease terms whenever they want during the lease\u2014can they do that?",
+        "ground_truth_answer": "No. A lease cannot be changed while it is in effect unless both the landlord and tenant agree.",
+        "citation": "II. LEASES (p. 3) (Page 6)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "We have an oral lease for an apartment that is not rent stabilized. Is that allowed?",
+        "ground_truth_answer": "Yes. Leases for apartments which are not rent stabilized may be oral or written.",
+        "citation": "II. LEASES (p. 3) (Page 6)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I agreed verbally to a 2-year lease\u2014can either of us enforce it in court?",
+        "ground_truth_answer": "No. An oral lease for more than one year cannot be legally enforced (General Obligations Law \u00a7 5-701).",
+        "citation": "II. LEASES (p. 3) (Page 6)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I\u2019m a NYC rent-stabilized tenant\u2014how long does my landlord have to give me a fully executed copy of my signed lease?",
+        "ground_truth_answer": "A New York City rent stabilized tenant is entitled to receive from the landlord a fully executed copy of the signed lease within 30 days of the landlord\u2019s receipt of the lease signed by the tenant.",
+        "citation": "New York City rent stabilized tenants (lease copy requirement) (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My rent-stabilized landlord gave me a lease but no rider\u2014are they supposed to provide a rent stabilization lease rider, and what should it include?",
+        "ground_truth_answer": "Rent stabilized tenants must be given a rent stabilization lease rider, prepared by DHCR, which summarizes their rights under the law and provides specific information on how the rent was calculated.",
+        "citation": "New York City rent stabilized tenants (lease rider requirement) (Page 7)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My lease says the landlord isn\u2019t responsible if I\u2019m injured because they were negligent\u2014can a lease clause like that be valid?",
+        "ground_truth_answer": "A lease provision that exempts the landlord from liability for injuries to persons or property caused by the landlord\u2019s negligence (or the negligence of the landlord\u2019s employees or agents) is void (General Obligations Law \u00a7 5-321).",
+        "citation": "Lease Provisions (void provisions; General Obligations Law \u00a7 5-321) (Page 7)",
+        "category": "Safety"
+    },
+    {
+        "question": "My lease says I give up my right to a jury trial if I sue my landlord for personal injury or property damage. Is that allowed?",
+        "ground_truth_answer": "A lease clause waiving the tenant\u2019s right to a jury trial in a lawsuit brought by either party against the other for personal injury or property damage is addressed in Real Property Law \u00a7 259-c.",
+        "citation": "Page 4 (Page 7)",
+        "category": "Safety"
+    },
+    {
+        "question": "My lease says if the landlord sues, they can recover attorney\u2019s fees and costs, but it doesn\u2019t say I can. Do I still have that right?",
+        "ground_truth_answer": "If a lease states that the landlord may recover attorney\u2019s fees and costs incurred if a lawsuit arises, the tenant automatically has a reciprocal right to recover those fees as well (Real Property Law \u00a7 234).",
+        "citation": "Page 4 (Page 7)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord put a clause in the lease that seems extremely unfair. Can a court refuse to enforce it?",
+        "ground_truth_answer": "If the court finds a lease or any lease clause to have been unconscionable at the time it was made, the court may refuse to enforce the lease or the clause in question (Real Property Law \u00a7 235-c).",
+        "citation": "Page 4 (Page 7)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My lease has an automatic renewal clause. Does my landlord have to warn me about it, and when?",
+        "ground_truth_answer": "If the lease contains an automatic renewal clause, the landlord must give advance notice of the existence of the clause between 15 and 30 days before the tenant is required to notify the landlord of an intention not to renew the lease.",
+        "citation": "Renewal Leases (Page 8)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I\u2019m a NYC rent-stabilized tenant\u2014when does my landlord have to send the renewal notice before my lease expires?",
+        "ground_truth_answer": "For New York City rent stabilized tenants, the landlord must give written notice of the right to renewal by mail or personal delivery not more than 150 days and not less than 90 days before the existing lease expires.",
+        "citation": "Renewal Leases (Page 8)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "After my landlord offers a rent-stabilized renewal lease, how long do I have to accept it before they can refuse to renew and try to evict me?",
+        "ground_truth_answer": "After the notice of renewal is given, the tenant has 60 days to accept. If the tenant does not accept within that time, the landlord may refuse to renew the lease and seek to evict the tenant through court proceedings.",
+        "citation": "Renewal Leases (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord offered me a lease renewal and I signed it. How long do they have to send back the fully executed lease, and do I have to pay the rent increase before I get it?",
+        "ground_truth_answer": "If the tenant accepts the renewal offer, the landlord has 30 days to return the fully executed lease to the tenant. Until it is returned to the tenant, the lease is not effective and the rent increase portion need not be paid.",
+        "citation": "Page 5 (Page 8)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I stayed after my lease ended and my landlord kept taking my rent. Am I considered a month-to-month tenant?",
+        "ground_truth_answer": "In localities without rent regulation, tenants who stay past the end of a lease are treated as month-to-month tenants if the landlord accepts their rent (Real Property Law \u00a7 232-c).",
+        "citation": "Month to Month Tenants (Page 5) (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "I\u2019m a month-to-month tenant outside NYC. If my rent is due on the first, when does my landlord need to give notice to make me move out by November 1?",
+        "ground_truth_answer": "A month-to-month tenancy outside New York City may be terminated by either party by giving at least one month\u2019s notice before the expiration of the tenancy. For example, if the landlord wants the tenant to move out by November 1 and the rent is due on the first of each month, the landlord must give notice by September 30.",
+        "citation": "Month to Month Tenants (Page 5) (Page 8)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord says I have to leave, but they didn\u2019t give a reason. Is that allowed for a month-to-month tenancy in the City, and how much notice do they need?",
+        "ground_truth_answer": "In the City, 30 days\u2019 notice is required (rather than one month). The landlord does not need to explain why the tenancy is being terminated; they only need to provide notice that it is being terminated and that refusal to vacate will lead to eviction proceedings. The notice does not automatically allow the landlord to evict the tenant.",
+        "citation": "Termination notice / Real Property Law \u00a7 232-a and \u00a7 232-b (Page 9)",
+        "category": "Eviction"
+    },
+    {
+        "question": "My landlord wants to raise my rent on a month-to-month lease. Can they do it without my agreement?",
+        "ground_truth_answer": "A landlord may raise the rent of a month-to-month tenant only with the tenant\u2019s consent. If the tenant does not consent, the landlord can terminate the tenancy by giving appropriate notice.",
+        "citation": "Termination and rent increase consent / Real Property Law \u00a7 232-a and \u00a7 232-b (Page 9)",
+        "category": "Eviction"
+    },
+    {
+        "question": "I\u2019m in a rent-regulated apartment\u2014how long do I have to challenge a rent increase?",
+        "ground_truth_answer": "If the apartment is subject to rent regulation, the initial rent and subsequent rent increases are set by law, and a tenant may challenge a rent increase up to four years after the increase went into effect.",
+        "citation": "III. RENT \u2014 Rent Charges (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "I live in a rent stabilized apartment\u2014who decides the maximum rent increase each year?",
+        "ground_truth_answer": "Maximum rent increases for rent stabilized apartments are set each year by the Rent Guidelines Board.",
+        "citation": "Text Chunk (page 6) (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "Can my landlord raise my rent for building-wide work like replacing a boiler or installing new equipment in a rent stabilized building?",
+        "ground_truth_answer": "Yes. Landlords of rent stabilized apartments may seek rent increases for certain building-wide major capital improvements (MCI) that benefit all tenants, such as replacement of a boiler or installation of new equipment.",
+        "citation": "Text Chunk (page 6) (Page 9)",
+        "category": "Rent Control"
+    },
+    {
+        "question": "My building has more than 35 apartments and the landlord did an Individual Apartment Improvement\u2014how is the permanent rent increase calculated?",
+        "ground_truth_answer": "In buildings that contain more than 35 apartments, the landlord can collect a permanent rent increase equal to 1/60th of the cost of the Individual Apartment Improvements (IAI).",
+        "citation": "Text Chunk (page 6) (Page 9)",
+        "category": "Rent Control"
+    }
+]
