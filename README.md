@@ -10,10 +10,10 @@ Run the models.\
 
 Step 3:\
 Evaluate the model response. \
-*Approach*: Implement some metrics evaluating the AI response. (What can we use as the metrics?)
+*Approach*: Implement some metrics evaluating the AI response.
 
 Step 4: \
 Visualize the results at front-end.\
-*Approach*: Gemini suggests use of `Streamlit` (how?) to build a dashboard where you can paste a legal question, select a model, and see the real-time evaluation results.
+*Approach*: Use `Streamlit` to build a dashboard where you can paste a legal question, select a model, and see the real-time evaluation results.
 
-Further questions: This is benchmarking AI for tenant-landlord law. How about AI for traffic law? AI for family law? AI for immigration law? (We can always argue that it is *scalable* if we run out of time.)
+Further questions: This is benchmarking AI for tenant-landlord law. How about AI for traffic law? AI for family law? AI for immigration law? This project is all about scalability - today is tenants' right, tomorrow is immigration law!
