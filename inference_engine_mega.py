@@ -21,16 +21,16 @@ DUKE_MODELS = [
     "gpt-5.1",
     "gpt-5-mini",
     "gpt-5-nano",     # New
-    "llama-4-scout",  # New
-    "mistral"         # New
+    "Llama 4 Scout",  # New
+    "GPT 4.1",
+    "Mistral on-site"         # New
 ]
 
 # 3. GOOGLE GEMINI API (Native Google SDK)
 # Get key from: aistudio.google.com
 GEMINI_API_KEY = "REDACTED_FOR_SECURITY"
 
-GEMINI_MODELS = [
-    "gemini-3.0-flash", 
+GEMINI_MODELS = [ 
     "gemini-2.5-flash"
 ]
 
