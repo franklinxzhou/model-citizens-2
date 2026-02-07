@@ -14,7 +14,7 @@ OUTPUT_FILE = "results/gpt-5.1_gpt-5-mini_gpt-5-nano_llama-4-scout_mistral_gemin
 
 # 2. DUKE AI GATEWAY (OpenAI-Compatible)
 # Includes your new futuristic models
-DUKE_API_KEY = "sk-XLphgdGYUvjdHGdHm3aleA" 
+DUKE_API_KEY = "REDACTED_FOR_SECURITY" 
 DUKE_BASE_URL = "https://litellm.oit.duke.edu/v1"
 
 DUKE_MODELS = [
@@ -28,7 +28,7 @@ DUKE_MODELS = [
 
 # 3. GOOGLE GEMINI API (Native Google SDK)
 # Get key from: aistudio.google.com
-GEMINI_API_KEY = "AIzaSyBv1lH7D7pKXOfflUuBUdNI0FV37gFq4OM"
+GEMINI_API_KEY = "REDACTED_FOR_SECURITY"
 
 GEMINI_MODELS = [ 
     "gemini-2.5-flash"
