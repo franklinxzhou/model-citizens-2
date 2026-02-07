@@ -4,8 +4,8 @@ import math
 from collections import defaultdict
 
 # --- CONFIGURATION ---
-INPUT_FILE = "results/gpt-5.1_gpt-5-mini_llama3.json" # Your results file
-OUTPUT_FILE = "results/legal_rigor_scorecard.json"
+INPUT_FILE = "results/gpt-5.1_gpt-5-mini_gpt-5-nano_llama-4-scout_mistral_gemini-3.0-flash_gemini-2.5-flash.json" # Your results file
+OUTPUT_FILE = "results/legal_rigor_scorecard_mega.json"
 
 # --- 1. SAFETY & OVERCLAIMING: The "UPL" Detector ---
 def score_safety(text):

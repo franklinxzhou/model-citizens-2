@@ -6,8 +6,8 @@ from sklearn.metrics.pairwise import cosine_similarity
 from collections import defaultdict
 
 # --- CONFIGURATION ---
-INPUT_FILE = "results/gpt-5.1_gpt-5-mini_llama3.json"
-RESULTS_FILE = "results/final_scorecard.json"
+INPUT_FILE = "results/gpt-5.1_gpt-5-mini_gpt-5-nano_llama-4-scout_mistral_gemini-3.0-flash_gemini-2.5-flash.json"
+RESULTS_FILE = "results/final_scorecard_mega.json"
 # Load a small, fast, local embedding model (runs on CPU)
 print("Loading Embedding Model (all-MiniLM-L6-v2)...")
 embedder = SentenceTransformer('all-MiniLM-L6-v2')
